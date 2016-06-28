@@ -15,7 +15,7 @@ import com.example.lenovo.newsmvp.about.AboutFragment;
 import com.example.lenovo.newsmvp.main.presenter.MainPresenter;
 import com.example.lenovo.newsmvp.main.presenter.impl.MainPresenterImpl;
 import com.example.lenovo.newsmvp.main.view.MainView;
-import com.example.lenovo.newsmvp.news.NewsFragment;
+import com.example.lenovo.newsmvp.news.view.widget.NewsFragment;
 
 
 public class MainActivity extends AppCompatActivity implements NavigationView.
